@@ -1,0 +1,24 @@
+MOBILE-ART-MUSEUM
+
+the point is a art museum of famous painters and artworks
+you can see the artist with the dates,
+
+ - a navbar
+ - a search
+ - homescreen with a caroucell
+
+ home-page > can choose artists > artist where you can see the paintings
+ > info about the paintings
+  
+  we are going to configure the profiles of the artists in a json file
+
+  what components do we need: 
+    > homepage (we got this already)
+        > artist profile component
+        > artwork component 
+
+
+the artist profile contains information about the artis itself
+    and with all the artist artworks in a caroucell
+
+the artwork is information about the artwork itself
